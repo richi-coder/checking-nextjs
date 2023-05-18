@@ -1,4 +1,6 @@
 import Image from 'next/image'
+import Consumer from '@/components/Consumer'
+import Child from '@/components/Child'
 
 export default function Home() {
   return (
@@ -108,6 +110,9 @@ export default function Home() {
           </p>
         </a>
       </div>
+      <Consumer>
+        <Child />
+      </Consumer>
     </main>
   )
 }
