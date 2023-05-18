@@ -1,15 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Checking Next JS TUtorial
 
-First, run the development server:
+When using the tutorial from Next JS to learn the tool, the project structure behaves different from normal running 
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+create-next-app@latest
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
