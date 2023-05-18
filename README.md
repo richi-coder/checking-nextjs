@@ -2,15 +2,24 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+When using the normal:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+create-next-app@latest
 ```
+
+The project structure uses:
+
+/src
+    /app
+        /route1
+            /page.js
+        /route2
+            /page.js
+
+Pull request and switch between branches to rapidly check for project structure differences!
+
+Once this is done, run ```npm run dev``` to check app behavior.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
