@@ -1,4 +1,5 @@
 function Dynamic({params}) {
+  // hi
   return (
     <div>{params.dynamic}</div>
   )
